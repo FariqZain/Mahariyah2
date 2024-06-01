@@ -9,6 +9,6 @@ def sum_list(l):
     return total
 
 x = 10
-y = 20
+y = 30
 print(sum(x,y))
 print(sum_list([1,2,3,4,5,6]))
