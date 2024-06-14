@@ -5,7 +5,7 @@
 // mendefinisikan sensor yang dipakai (DHT11, DHT21, dan DHT22)
 #define DHTTYPE DHT11 // tipe yang dipilih DHT 11
 
-// Nama wifi yang akan dikHidupeksikan
+// Nama wifi yang akan dihubungkan 
 const char* ssid = "fariqzain";
 // masukan password wifinya
 const char* password = "12345678";
